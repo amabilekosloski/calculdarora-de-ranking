@@ -27,4 +27,4 @@ return { saldoVitorias, nivel };
 
 let resultado = getRank(115, 10);
 
-console.log(`O Herói tem de saldo de **${resultado.saldoVitorias}** está no nível de **${resultado.nivel}**`);
+console.log(`O Herói de nome ${nomeDoHeroi} tem de saldo **${resultado.saldoVitorias}** vitórias e está no nível **${resultado.nivel}**`);
